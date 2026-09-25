@@ -2,4 +2,4 @@
 - remake of Dino run
 - Press space to jump
 - Hold space to keep jumping
-- No AI used
+- No AI tools used
